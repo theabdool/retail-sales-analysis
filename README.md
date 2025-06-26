@@ -10,9 +10,9 @@ Retail companies struggle to:
 - Optimize discount strategies and purchase methods
 This dashboard enables data-driven decisions by providing real-time, interactive views of key retail KPIs.
 ### Tools Used
-**Tableau** – Data visualization, forecasting, trend analysis
-**Data Source** – cleaned retail transactions with age, product category, and payment method
-**Excel/CSV** – for raw data preprocessing 
+Tableau – Data visualization, forecasting, trend analysis
+Data Source – cleaned retail transactions with age, product category, and payment method
+Excel/CSV – for raw data preprocessing 
 ### Process Summary
 **Data Cleaning:** Cleaned retail transactions, merged customer and product data
 **Data Modeling:** Established dimensions (age group, location, payment method) and measures (net revenue, discount %, profit)

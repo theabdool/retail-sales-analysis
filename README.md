@@ -1,5 +1,5 @@
 # retail-sales-analysis
-# Project Title
+### Project Title
 Retail Sales Analysis Dashboard (2019–2024)
 ### Description
 This analyzing retail performance across revenue, transaction volume, profit margin, and discount trends from 2019 to 2024. It provides insights into top products, customer age groups, purchase methods, and city-wise profitability.
